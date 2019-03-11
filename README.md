@@ -1,2 +1,2 @@
 # projectA
-3/11 excesice 
+3/11 exercise  
